@@ -1,0 +1,53 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: maple-recursive-eiffel
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ilgiz
+    family-names: Mustafin
+    email: ilgiz.mustafin@constructor.org
+    affiliation: Constructor Institute
+    orcid: "https://orcid.org/0009-0007-0476-5966"
+    website: "https://imustafin.tatar"
+  - given-names: Alessandro
+    family-names: Schena
+    email: alessandro.schena@constructor.org
+    affiliation: Constructor Institute
+  - given-names: Reto
+    family-names: Weber
+    email: reto.weber@sit.org
+    affiliation: Constructor Institute
+repository-code: "https://github.com/CI-CSE/maple-recursive-eiffel"
+abstract: >
+  Eiffel translations verified using AutoProof of examples
+  from "Automatic program repair using formal verification and expression templates"
+  (2019) by Thanh-Toan Nguyen et al.
+keywords:
+  - eiffel
+  - autoproof
+  - software verification
+  - c
+  - bugs
+  - automatic program repair
+references:
+  - authors:
+      - family-names: Nguyen
+        given-names: "Thanh-Toan"
+      - family-names: Ta
+        given-names: "Quang-Trung"
+      - family-names: Chin
+        given-names: "Wei-Ngan"
+    doi: "https://doi.org/10.1007/978-3-030-11245-5_4"
+    journal: >-
+      Verification, Model Checking, and Abstract Interpretation. VMCAI 2019
+    year: 2019
+    title: >-
+      Automatic Program Repair Using Formal Verification and Expression Templates
+license: MIT
+commit: 3fbd43b5082c0cd97a5bd4ae99120335d26f7f6d
+date-released: "2024-02-13"
