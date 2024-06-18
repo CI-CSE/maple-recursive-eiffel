@@ -48,6 +48,34 @@ references:
     year: 2019
     title: >-
       Automatic Program Repair Using Formal Verification and Expression Templates
+    scope: "Paper which introduced the code which was translated in this dataset"
+  - authors:
+      - family-names: Huang
+        given-names: Li
+        affiliation: Constructor Institute
+        email: li.huang@constructor.org
+        orcid: "https://orcid.org/0009-0005-2051-1494"
+      - family-names: Meyer
+        given-names: Bertrand
+        affiliation: Constructor Institute
+        email: bertrand.meyer@inf.ethz.ch
+        orcid: "https://orcid.org/0000-0002-5985-7434"
+      - family-names: Mustafin
+        given-names: Ilgiz
+        email: ilgiz.mustafin@constructor.org
+        affiliation: Constructor Institute
+        orcid: "https://orcid.org/0009-0007-0476-5966"
+        website: "https://imustafin.tatar"
+      - family-names: Oriol
+        given-names: Manuel
+        affiliation: Constructor Institute
+        orcid: "https://orcid.org/0000-0003-4069-7626"
+        email: mo@constructor.org
+    title: "Execution-free program repair"
+    journal: >-
+      Foundations of Software Engineering, FSE 2024
+    year: 2024
+    scope: "Paper in which the translations first appeared"
 license: MIT
 commit: 3fbd43b5082c0cd97a5bd4ae99120335d26f7f6d
 date-released: "2024-02-13"
