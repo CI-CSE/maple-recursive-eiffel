@@ -8,7 +8,7 @@ class
 	MAPLE_RECURSIVE_MIN_2_2
 
 feature
-	sum (a_x, a_y: INTEGER): INTEGER
+	min (a_x, a_y: INTEGER): INTEGER
 		require
 			True
 		do

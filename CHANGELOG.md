@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- In `MIN_2_2` use the correct feature name `min`
+
 ## [1.0.0] - 14-06-2025
 
 First released version
